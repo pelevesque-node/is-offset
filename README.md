@@ -8,7 +8,7 @@ Checks if a string is the offset of another.
 
 ## Node Repository
 
-[https://www.npmjs.com/package/@pelevesque/is-offset](https://www.npmjs.com/package/@pelevesque/is-offset)
+https://www.npmjs.com/package/@pelevesque/is-offset
 
 ## Installation
 

@@ -36,6 +36,6 @@
     "standard": "^12.0.1"
   },
   "dependencies": {
-    "@pelevesque/supersubstr": "^0.0.3"
+    "@pelevesque/supersubstr": "^1.0.0"
   }
 }

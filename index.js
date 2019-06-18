@@ -11,7 +11,7 @@ module.exports = (str1, str2, step = 1) => {
     str1.length > step
   ) {
     for (let i = step, len = str1.length; i < len; i += step) {
-      if (str1.localeCompare(supersubstr(str2, i, str1.length)) === 0) {
+      if (str1.localeCompare(supersubstr(str2, { startIndex: i, length: str1.length })) === 0) {
         isOffset = true
         break
       }

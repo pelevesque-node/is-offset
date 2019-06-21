@@ -26,7 +26,7 @@ https://www.npmjs.com/package/@pelevesque/is-offset
 
 ## Usage
 
-### parameters
+### Parameters
 
 ```js
 str1 (required)  
@@ -34,7 +34,7 @@ str2 (required)
 step (optional) default = 1
 ```
 
-### examples
+### Examples
 
 ```js
 const isOffset = require('@pelevesque/is-offset')

@@ -1,6 +1,6 @@
 {
   "name": "@pelevesque/is-offset",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Checks if a string is the offset of another.",
   "main": "index.js",
   "engines": {
